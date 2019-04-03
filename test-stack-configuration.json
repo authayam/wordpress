@@ -1,0 +1,9 @@
+{
+  "Parameters" : {
+    "DBName" : "TestWordPressDB",
+    "DBPassword" : "Qweasd123",
+    "DBRootPassword" : "Asdqwe123",
+    "DBUser" : "TestDBuser",    
+    "KeyName" : "KubeHard-Azure"
+  }
+}

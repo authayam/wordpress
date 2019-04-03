@@ -1,0 +1,9 @@
+{
+  "Parameters" : {
+    "DBName" : "ProdWordPressDB",
+    "DBPassword" : "Qweasd123",
+    "DBRootPassword" : "Asdqwe123",
+    "DBUser" : "ProdDBuser",    
+    "KeyName" : "KubeHard-Azure"
+  }
+}
